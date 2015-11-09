@@ -14,6 +14,7 @@
 		FCDDA5D71BF124E600C6944C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FCDDA5D51BF124E600C6944C /* LaunchScreen.storyboard */; };
 		FCDDA5E21BF124E600C6944C /* SuperCoolTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCDDA5E11BF124E600C6944C /* SuperCoolTests.swift */; };
 		FCDDA5ED1BF124E600C6944C /* SuperCoolUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCDDA5EC1BF124E600C6944C /* SuperCoolUITests.swift */; };
+		FCDDA5FB1BF12EA300C6944C /* BlueRed_S2E1.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCDDA5FA1BF12EA300C6944C /* BlueRed_S2E1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		FCDDA5E81BF124E600C6944C /* SuperCoolUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SuperCoolUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FCDDA5EC1BF124E600C6944C /* SuperCoolUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuperCoolUITests.swift; sourceTree = "<group>"; };
 		FCDDA5EE1BF124E600C6944C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FCDDA5FA1BF12EA300C6944C /* BlueRed_S2E1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BlueRed_S2E1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				FCDDA5CC1BF124E600C6944C /* AppDelegate.swift */,
 				FCDDA5CE1BF124E600C6944C /* ViewController.swift */,
+				FCDDA5FA1BF12EA300C6944C /* BlueRed_S2E1.swift */,
 				FCDDA5D01BF124E600C6944C /* Main.storyboard */,
 				FCDDA5D31BF124E600C6944C /* Assets.xcassets */,
 				FCDDA5D51BF124E600C6944C /* LaunchScreen.storyboard */,
@@ -256,6 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FCDDA5FB1BF12EA300C6944C /* BlueRed_S2E1.swift in Sources */,
 				FCDDA5CF1BF124E600C6944C /* ViewController.swift in Sources */,
 				FCDDA5CD1BF124E600C6944C /* AppDelegate.swift in Sources */,
 			);
