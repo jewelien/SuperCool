@@ -15,6 +15,7 @@
 		FCDDA5E21BF124E600C6944C /* SuperCoolTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCDDA5E11BF124E600C6944C /* SuperCoolTests.swift */; };
 		FCDDA5ED1BF124E600C6944C /* SuperCoolUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCDDA5EC1BF124E600C6944C /* SuperCoolUITests.swift */; };
 		FCDDA5FB1BF12EA300C6944C /* BlueRed_S2E1.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCDDA5FA1BF12EA300C6944C /* BlueRed_S2E1.swift */; };
+		FCDDA5FF1BF2788200C6944C /* AutoLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCDDA5FE1BF2788200C6944C /* AutoLayout.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		FCDDA5EC1BF124E600C6944C /* SuperCoolUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuperCoolUITests.swift; sourceTree = "<group>"; };
 		FCDDA5EE1BF124E600C6944C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FCDDA5FA1BF12EA300C6944C /* BlueRed_S2E1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BlueRed_S2E1.swift; sourceTree = "<group>"; };
+		FCDDA5FE1BF2788200C6944C /* AutoLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AutoLayout.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				FCDDA5CC1BF124E600C6944C /* AppDelegate.swift */,
 				FCDDA5CE1BF124E600C6944C /* ViewController.swift */,
 				FCDDA5FA1BF12EA300C6944C /* BlueRed_S2E1.swift */,
+				FCDDA5FE1BF2788200C6944C /* AutoLayout.swift */,
 				FCDDA5D01BF124E600C6944C /* Main.storyboard */,
 				FCDDA5D31BF124E600C6944C /* Assets.xcassets */,
 				FCDDA5D51BF124E600C6944C /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 			files = (
 				FCDDA5FB1BF12EA300C6944C /* BlueRed_S2E1.swift in Sources */,
 				FCDDA5CF1BF124E600C6944C /* ViewController.swift in Sources */,
+				FCDDA5FF1BF2788200C6944C /* AutoLayout.swift in Sources */,
 				FCDDA5CD1BF124E600C6944C /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -486,6 +490,7 @@
 				FCDDA5F31BF124E600C6944C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FCDDA5F41BF124E600C6944C /* Build configuration list for PBXNativeTarget "SuperCoolTests" */ = {
 			isa = XCConfigurationList;
@@ -494,6 +499,7 @@
 				FCDDA5F61BF124E600C6944C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FCDDA5F71BF124E600C6944C /* Build configuration list for PBXNativeTarget "SuperCoolUITests" */ = {
 			isa = XCConfigurationList;
@@ -502,6 +508,7 @@
 				FCDDA5F91BF124E600C6944C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
